@@ -1,0 +1,1 @@
+﻿This is a wrapper that wrapped the AMD Core Math Library (ACML) for Windows built with Intel Fortran's FORTRAN interface function name from upper case to appended by an underscore.
